@@ -1,12 +1,12 @@
 # libft
-libft is a School 42 project. The purpose of this project is to create own C library.
+libft - один из проектов школы 21. Главная цель - создание собственной библиотеки.
 
-## Usage
-``make`` without bonus functions.
+## Использование
+``make`` функции основной части.
 
-``make bonus`` to compile with bonuses.
+``make bonus`` функции бонусной части.
 
-### Libc functions
+### Функции библиотеки
 
 * [ft_atoi.c](/libft/ft_atoi.c)
 * [ft_bzero.c](/libft/ft_bzero.c)
